@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["Ethan Furst"]
 readme = "README.md"
-packages = [{include = "4h_computer_project"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
